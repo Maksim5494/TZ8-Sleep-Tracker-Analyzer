@@ -16,7 +16,9 @@ public class SleepingSession {
     public LocalDateTime getStart() {
         return start;
     }
+
     public LocalDateTime getEnd() {
+
         return end;
     }
 
